@@ -1,0 +1,6 @@
+.root{
+    -fx-background-image: "potential-background.jpeg";
+}
+.HBox, .VBox{
+    -fx-background-color: white;
+}
